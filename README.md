@@ -10,7 +10,7 @@ Download the android directory and install all dependencies for the android proj
 Run your application (with Android studio) in an emulated device or connect a physical device in your PC.
 Alternatively, you can build the project and grab the apk file and install it in your device.
 
-##Instructions for react application
+## Instructions for react application
 
 In the project directory run npm start to run the react application in your localhost.
 
