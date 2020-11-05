@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.TestMap",
+  "appName": "TestMap",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
